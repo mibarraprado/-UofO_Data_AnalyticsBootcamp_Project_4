@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spaceship-titanic-387720",
+  "private_key_id": "729aac731f9f81852313df23b80f8890783bdc09",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDn6/9ZeAqTB1H1\ny2A1DgkHvNuZ6G6OJFSgj4CxomZePM/qWWNJMNFRwGAXD7ZBZXCrLwc5Xwo5biUh\nPN/fkC5BYZhAeS3bhDbodstv6AFGTN3/NSf91Bm6C1NVlpbP/p97OllBWEKDyzR/\nem3CRbdSPuL/R5JC9+KMScR/v/ndqmP0pB1bZS5x5XxaBlnMQWgcEUNJ3ZUCgqXb\necWEhVnQdt7eg9A5dOEptBw/tnQpEfMnBzadToe6v/avkPVxQSDOWko7JtrzKMtJ\nY3Hn5dBiUxS3LX7SjoNWBG4+17PvlVi4yvyl76ZMn5qvWDvenDttT1nfNDbk5mNz\nEu2vzBx5AgMBAAECggEAcbTrs25e5No0bWmiiDCS7dfC5TEnrwoR8cyZwL3KKc7v\n80qTGqnUHpxOoE/kQCjfdhZvGMpHhYPCsYqaio4yl3ylfIrNGHC4yP2hXYLmyRRb\nzUm/CzxnxqbR20cjNuP0RiMD6r0+k0ZYPV4FnTe4GxtZCOcKx0moqbZrIGU7uNjn\n2P9P5LooEELytlNhct41SkGbSUIJ0FNGjHltTc2OX3FEP8ycv3mdPxcJENXWCQMa\ncq8J2XTxRgMUOr57T3zACJIs3H6W8P27yH6/WbwLkrD9i0LjkDnr8Yy1xrIBRIcW\nNVBg3jAxe/c3FlW5EDf1Q1ybT1wcBLj1xvNnMgDvvwKBgQD9/CixhUwb6sKYKUf8\nc+YxJAI0WM04g8XCuIxuI11sbfrE+r7t2NVzGeQolMTw425cEoL+9I0xKkHo97MD\nL44d8p4pXFDIlKVgursB2PZfya4lkfWP7ivsx+ogqTb8s2nDZfkogHP/3k3baP1e\nyMryHjqfL1n1ohEMZtiRSNHxkwKBgQDpwwdLmbi97Z11u+9UR8h9CIkzOcM3vkGQ\nI7ZLFpNYLo2VcQSK1R39+AD/PcC+AwkeBPLUoljjt3w/QIkhYyAbT7BPPAywFZ2S\nEKjUUIK7ajfyuYN885Ecj4YPx3sOCLoQW9R13orDPDxMg5a9BoMiupigOE723DME\n4dMk2OhxQwKBgHB6Hg9Xp7fpRBoclfuP3A5BExTZirCPcqHkFpSj5rihD9/x52Hv\nl79sZOUv1POU1IfDzu1Xobt3Kk8ges9bXQWYL0DD2Car5X0r1KthyOHsr8mFlQkT\ngbJPajjily5byee1nhy4niZe7X3QRfyW0YFdr7pVPvKPvhsO5LOaWxcvAoGAc73F\n4e/F4fxBp2abFE7KfOX6EKv79aC1E6oq+zi9Ub8TCThBOIBW7kWaMMahpTMZk4x9\nszyC6JUT5rmMbESJRByLvl+MJK8/KnAnN6B5alQoSX0DFp3+bna9uRha3FMD1U+y\nfX3nlM1BSd0piIQt78cWBNZ8eowCkttBURA43sMCgYADgYJj6qoIY2c+pYonEJ4o\nbKsTeXlsNJr7XVZjlv6lvG3pPRbXKVkExupaqXfZBWgFPRTh4mLR3oNEODZuO0qK\nGt/VYnhzJgYEiaaifIGMJHqj5H9qz5YVQzfHXJzahnHm2stLzHOwsauZTPQqFKH/\nClT0TI6ymZSCVzynDc/+0w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "project4@spaceship-titanic-387720.iam.gserviceaccount.com",
+  "client_id": "117932986214231629638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project4%40spaceship-titanic-387720.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
