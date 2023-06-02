@@ -28,7 +28,7 @@
 <h2>Directories:</h2>
 <ul>
   <li><input type="checkbox" disabled> Plots: JPG files of all exploratory visualizations.</li>
-  <li><input type="checkbox" disabled> Resources:</li>
+  <li><input type="checkbox" disabled> Resources: CSV files for each SQL table, original data, and json file to access database with BigQuery.</li>
   <li><input type="checkbox" disabled> cleaned_data: A csv with cleaned</li>
 </ul>
 
