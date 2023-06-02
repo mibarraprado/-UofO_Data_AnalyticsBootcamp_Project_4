@@ -27,14 +27,14 @@
 
 <h2>Directories:</h2>
 <ul>
-  <li><input type="checkbox" disabled> Plots: JPG files of all exploratory visualizations.</li>
-  <li><input type="checkbox" disabled> Resources: CSV files for each SQL table, original data, and json file to access database with BigQuery.</li>
-  <li><input type="checkbox" disabled> cleaned_data: A csv with cleaned</li>
+  <li><input type="checkbox" disabled> <b>Plots:</b> JPG files of all exploratory visualizations.</li>
+  <li><input type="checkbox" disabled> <b>Resources:</b> CSV files for each SQL table, original data, and json file to access database with BigQuery.</li>
+  <li><input type="checkbox" disabled> <b>cleaned_data:</b> A csv with original data cleaned and merged.</li>
 </ul>
 
 <h2>Files:</h2>
 <ul>
-  <li><input type="checkbox" disabled> Spaceship_Titanic_LogisticRegression_Model_scaled_data.ipynb: The jupyter notebook with logistic regression using scaled data.</li>
-  <li><input type="checkbox" disabled> Spaceship_Titanic_LogisticRegression_Model.ipynb: The jupyter notebook documenting machine learning with the logistic regression model, using the training dataset with missing data imputed.</li>
-  <li><input type="checkbox" disabled> space_neural_multiple_models.ipynb: Predictions using neural network</li>
-  <li><input type="checkbox" disabled> Spaceship_Titanic_RandomForest_Model.ipynb: Predictions using
+  <li><input type="checkbox" disabled> <b>Spaceship_Titanic_LogisticRegression_Model_scaled_data.ipynb:</b> The jupyter notebook with logistic regression using scaled data.</li>
+  <li><input type="checkbox" disabled> <b>Spaceship_Titanic_LogisticRegression_Model.ipynb:</b> The jupyter notebook documenting machine learning with the logistic regression model, using the training dataset with missing data imputed.</li>
+  <li><input type="checkbox" disabled><b>space_neural_multiple_models.ipynb:</b> Predictions using neural network.</li>
+  <li><input type="checkbox" disabled><b> Spaceship_Titanic_RandomForest_Model.ipynb:</b> Predictions using Random Forest.</li>
