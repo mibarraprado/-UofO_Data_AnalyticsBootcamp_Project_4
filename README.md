@@ -9,6 +9,8 @@
 
 <p>To help rescue crews retrieve the lost passengers, we are to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.</p>
 
+<p>Our task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly.</p>
+
 <p><strong>Help save them and change history!</strong></p>
 
 <h2>Passenger Data Available:</h2>
