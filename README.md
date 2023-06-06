@@ -36,8 +36,8 @@
 
 <h2>Files:</h2>
 <ul>
-  <li><input type="checkbox" disabled> <b>Spaceship_Titanic_LogisticRegression_Model_scaled_data.ipynb:</b> The jupyter notebook with logistic regression using scaled data.</li>
-  <li><input type="checkbox" disabled> <b>Spaceship_Titanic_LogisticRegression_Model.ipynb:</b> The jupyter notebook documenting machine learning with the logistic regression model, using the training dataset with missing data imputed.</li>
+  <li><input type="checkbox" disabled> <b>exploratory_analysis.ipynb:</b> The jupyter notebook containing initial exploratory data analysis.</li>
+  <li><input type="checkbox" disabled> <b>impute_nans.ipynb:</b> Code imputing missing data into cleaned data table.</li>
   <li><input type="checkbox" disabled><b>space_neural_multiple_models.ipynb:</b> Predictions using neural network.</li>
-  <li><input type="checkbox" disabled><b> Spaceship_Titanic_KNeighbors_Model.ipynb:</b> Predictions using KNeighbors.</li>
-    <li><input type="checkbox" disabled><b> Spaceship_Titanic_RandomForest_Model.ipynb:</b> Predictions using Random Forest.</li>
+  <li><input type="checkbox" disabled><b> sqltablecreation.ipynb:</b> Creating tables from source data for SQL database.</li>
+    <li><input type="checkbox" disabled><b> Test_Models.ipynb:</b> Code for the following models: Logistic Regression, KNeighbors, and Random Forest.</li>
