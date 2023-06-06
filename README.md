@@ -27,7 +27,7 @@
   <li>Transported - Whether the passenger was transported to another dimension.</li>
 </ul>
 
-Link to json key: <a href="https://drive.google.com/file/d/1ensinFUUF8sbSE0vtFtu929srECWL7M2/view">Click here to view the file</a>
+LINK TO JSON KEY TO BE PLACED IN RESOURCES FOLDER: <a href="https://drive.google.com/file/d/1ensinFUUF8sbSE0vtFtu929srECWL7M2/view">Click here to view the file</a>
 
 <h2>Directories:</h2>
 <ul>
