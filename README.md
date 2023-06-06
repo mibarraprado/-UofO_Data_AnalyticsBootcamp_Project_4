@@ -27,17 +27,21 @@
   <li>Transported - Whether the passenger was transported to another dimension.</li>
 </ul>
 
+Link to json: <a href="https://drive.google.com/file/d/1ensinFUUF8sbSE0vtFtu929srECWL7M2/view">Click here to view the file</a>
+
 <h2>Directories:</h2>
 <ul>
   <li><input type="checkbox" disabled> <b>Plots:</b> JPG files of all exploratory visualizations.</li>
   <li><input type="checkbox" disabled> <b>Resources:</b> CSV files for each SQL table, original data, and json file to access database with BigQuery.</li>
   <li><input type="checkbox" disabled> <b>cleaned_data:</b> A csv with original data cleaned and merged.</li>
 </ul>
+  <li><input type="checkbox" disabled> <b>Old Files:</b> exploratory_analysis.ipynb, impute_nans.ipynb, separate ML model files.</li>
+</ul>
 
 <h2>Files:</h2>
 <ul>
-  <li><input type="checkbox" disabled> <b>exploratory_analysis.ipynb:</b> The jupyter notebook containing initial exploratory data analysis.</li>
-  <li><input type="checkbox" disabled> <b>impute_nans.ipynb:</b> Code imputing missing data into cleaned data table.</li>
   <li><input type="checkbox" disabled><b>space_neural_multiple_models.ipynb:</b> Predictions using neural network.</li>
   <li><input type="checkbox" disabled><b> sqltablecreation.ipynb:</b> Creating tables from source data for SQL database.</li>
     <li><input type="checkbox" disabled><b> Test_Models.ipynb:</b> Code for the following models: Logistic Regression, KNeighbors, and Random Forest.</li>
+
+  
