@@ -39,4 +39,5 @@
   <li><input type="checkbox" disabled> <b>Spaceship_Titanic_LogisticRegression_Model_scaled_data.ipynb:</b> The jupyter notebook with logistic regression using scaled data.</li>
   <li><input type="checkbox" disabled> <b>Spaceship_Titanic_LogisticRegression_Model.ipynb:</b> The jupyter notebook documenting machine learning with the logistic regression model, using the training dataset with missing data imputed.</li>
   <li><input type="checkbox" disabled><b>space_neural_multiple_models.ipynb:</b> Predictions using neural network.</li>
-  <li><input type="checkbox" disabled><b> Spaceship_Titanic_RandomForest_Model.ipynb:</b> Predictions using Random Forest.</li>
+  <li><input type="checkbox" disabled><b> Spaceship_Titanic_KNeighbors_Model.ipynb:</b> Predictions using KNeighbors.</li>
+    <li><input type="checkbox" disabled><b> Spaceship_Titanic_RandomForest_Model.ipynb:</b> Predictions using Random Forest.</li>

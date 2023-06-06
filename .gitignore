@@ -1,3 +1,6 @@
+# Ignore the Cloud database key
+Resources/spaceship-titanic-387720-729aac731f9f.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
